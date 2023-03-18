@@ -30,7 +30,6 @@ def calculate():
         pyperclip.copy(eval(pyperclip.paste()))
     except:
         pass
-        print(__file__)
 
 def encryption():
     try:
